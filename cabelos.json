@@ -1,15 +1,13 @@
 {
-    "Moreno" : [
-        {"Cabelo 1" : "https://images.habbotravel.com/furni/clothing_r19_shortcurly/clothing_r19_shortcurly_64_0_0.png",
-         "Cabelo 2" : "https://images.habbotravel.com/furni/clothing_r18_frohawk/clothing_r18_frohawk_64_0_0.png"}],    
-    "Chapéus" : [
-        { "Boné 1" : "https://i.imgur.com/pib8E7y.png" ,
-          "Boné 2" : "https://images.habbotravel.com/furni/clothing_bffhat/clothing_bffhat_64_0_0.png"}],
+    "moreno" : [
+        {"Cabelo 1" : "https://images.habbotravel.com/furni/clothing_r19_shortcurly/clothing_r19_shortcurly_64_0_0.png" },
+        { "Cabelo 2" : "https://images.habbotravel.com/furni/clothing_r18_frohawk/clothing_r18_frohawk_64_0_0.png"}],    
+    "chapeus" : [
+        { "Boné 1" : "https://i.imgur.com/pib8E7y.png"},
+        {  "Boné 2" : "https://images.habbotravel.com/furni/clothing_bffhat/clothing_bffhat_64_0_0.png"}],
     "Femininos" : [
-        {
-            "Cabelo 1" : "https://images.habbotravel.com/furni/clothing_sideponytail/clothing_sideponytail_64_0_0.png",
-            "Cabelo 2" : "https://images.habbotravel.com/furni/clothing_kpopbuns/clothing_kpopbuns_64_0_0.png",
-            "Cabelo 3" : "https://images.habbotravel.com/furni/clothing_luscioushair/clothing_luscioushair_64_0_0.png"
-        }
+        {"Cabelo 1" : "https://images.habbotravel.com/furni/clothing_sideponytail/clothing_sideponytail_64_0_0.png"},
+        {"Cabelo 2" : "https://images.habbotravel.com/furni/clothing_kpopbuns/clothing_kpopbuns_64_0_0.png"},
+        {"Cabelo 3" : "https://images.habbotravel.com/furni/clothing_luscioushair/clothing_luscioushair_64_0_0.png"}
     ]
 }
